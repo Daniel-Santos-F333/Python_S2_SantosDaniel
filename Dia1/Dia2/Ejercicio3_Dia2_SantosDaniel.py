@@ -1,3 +1,7 @@
+# ##########################
+# #### Clase Dia 2 ######
+# ##########################
+
 #Calcular el Factorial de un numero
 #Saludamos al usuario y le solicitamos ingresar el numero del que desea conocer su factorial
 print("Bienvenido, al programa CalcularFactorial")

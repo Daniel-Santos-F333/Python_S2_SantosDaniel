@@ -1,3 +1,7 @@
+# ##########################
+# #### Clase Dia 2 ######
+# ##########################
+
 #Calcular el area de un circulo
 #Solicitar el radio del circulo
 Radio = int(input("Ingrese el radio del circulo: "))

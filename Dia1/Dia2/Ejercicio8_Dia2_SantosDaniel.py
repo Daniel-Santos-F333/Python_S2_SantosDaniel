@@ -1,3 +1,7 @@
+# ##########################
+# #### Clase Dia 2 ######
+# ##########################
+
 #Generar la serie de fibonacci
 #Solicitamos al usuario cuantos numeros de la serie fibonacci desea ver
 Num = int(input("¿Cuantos numeros de la serie fibonacci deseas ver?: "))

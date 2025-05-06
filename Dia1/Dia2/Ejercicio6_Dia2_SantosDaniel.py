@@ -1,3 +1,7 @@
+# ##########################
+# #### Clase Dia 2 ######
+# ##########################
+
 #Determinar si un numero es par o impar
 #Solicitamos que ingrese un numero
 print("Bienvenido Usuario")

@@ -1,3 +1,7 @@
+# ##########################
+# #### Clase Dia 2 ######
+# ##########################
+
 #Determinar el area de un triangulo
 #Saludamos al usuario y solicitamos la base y la altura del triangulo
 print("Bienvenido al programa")

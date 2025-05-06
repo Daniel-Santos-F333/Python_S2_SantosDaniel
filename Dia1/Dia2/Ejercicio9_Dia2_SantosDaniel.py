@@ -1,3 +1,7 @@
+# ##########################
+# #### Clase Dia 2 ######
+# ##########################
+
 #Tabla de Multiplicar
 #Solicitamos el numero para generar su tabla de multiplicar
 Numerito = int(input("Ingrese un numero: "))

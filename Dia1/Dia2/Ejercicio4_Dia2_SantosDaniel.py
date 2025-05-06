@@ -1,11 +1,15 @@
+# ##########################
+# #### Clase Dia 2 ######
+# ##########################
+
 #Saber si un numero es primo
 #Solicitamos un numero al usuario
 
 Numero = int(input("Ingrese un numero: "))
-
+Primo = False
 #Verifico si el numero ingresado es primo
 if Numero <= 1:
-    print("El numero no es primo")
+    Primo = False
 else:
     Primo = True 
 

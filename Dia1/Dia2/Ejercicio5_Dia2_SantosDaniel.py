@@ -1,6 +1,10 @@
+# ##########################
+# #### Clase Dia 2 ######
+# ##########################
+
 #Convertir de grados Celsius a Farenheit
 #Solicitamos que ingrese una temperatura en Celsius
-gCelsius = int(input("Ingrese una temperatura en grados Celsius: "))
+gCelsius = float(input("Ingrese una temperatura en grados Celsius: "))
 
 #Realizamos la conversion usando una formula
 gFarenheit = (gCelsius*9/5)+32

@@ -1,3 +1,7 @@
+# ##########################
+# #### Clase Dia 2 ######
+# ##########################
+
 #Sacar el promedio de una lista de numeros
 #Solicito la cantidad de numeros que habrá en la lista
 CantNumeros = int(input("Ingrese la cantidad de numeros de la lista: "))

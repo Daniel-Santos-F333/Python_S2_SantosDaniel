@@ -1,3 +1,7 @@
+# ##########################
+# #### Clase Dia 2 ######
+# ##########################
+
 #Suma de dos números
 #Primero solicitamos al usuario que ingrese dos números
 print("Bienvenido al programa de sumar dos numeros")
