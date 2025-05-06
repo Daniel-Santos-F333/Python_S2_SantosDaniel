@@ -1,3 +1,4 @@
+#Determinar numero mayor de tres numeros
 #Saludamos al usuario y le solicitamos 3 numeros
 print("Bienvenido al programa para hallar el mayor de tres numeros")
 Numero1 = int(input("Ingrese por favor un numero: "))
@@ -19,7 +20,3 @@ print(f"El numero mayor entre {Numero1}, {Numero2} y {Numero3} es: {Mayor}")
 #Desarrollado por: Daniel Santos Fajardo - C.C. 1.005.331.246
 
        
-
-
-        
-
